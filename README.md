@@ -1,0 +1,2 @@
+# Thermoelectric-temperature-controller-enclosure-for-Split-cell-SEE-612-
+Designed in AutoCAD, fabricated and validated a compact thermoelectric temperature-control prototype for battery cells (85 × 85 × 85 mm aluminium block). Integrated TECs (TECI-12706), heater, PT100 sensing and manual control. – Performed COMSOL thermal simulations to optimise TEC placement and module combinations; achieved 21−80◦C control 
